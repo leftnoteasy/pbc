@@ -1,6 +1,5 @@
 .deps
 Makefile
-Makefile.in
 autom4te.*
 config.*
 configure
